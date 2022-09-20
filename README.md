@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MsNix
+- 👀 I’m interested in web automation and chemistry
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: <code>hgada4@proton.me</code>
